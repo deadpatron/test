@@ -1,0 +1,13 @@
+li {
+	display: inline-block;
+	margin-left: 30px;
+	min-width: 30px;
+	border: 1px solid black;
+	border-radius: 3px; 
+	text-align: center;
+
+}
+
+.first {
+	margin-left: 50%;
+}
