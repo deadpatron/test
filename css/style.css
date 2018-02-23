@@ -5,9 +5,11 @@ li {
 	border: 1px solid black;
 	border-radius: 3px; 
 	text-align: center;
+	background: #C7CBD1;
 
 }
 
 .first {
 	margin-left: 50%;
+	background: #EBEDEF;
 }
