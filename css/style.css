@@ -1,15 +1,27 @@
 li {
 	display: inline-block;
-	margin-left: 30px;
+	margin-left: 0px;
 	min-width: 30px;
 	border: 1px solid black;
 	border-radius: 3px; 
 	text-align: center;
 	background: #C7CBD1;
+	
 
 }
 
 .first {
 	margin-left: 50%;
 	background: #EBEDEF;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+
+a:hover {
+	color: #FF9800;
+	border-bottom: 1px dashed #FF9800;
 }
